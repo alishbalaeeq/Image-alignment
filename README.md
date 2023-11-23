@@ -4,11 +4,10 @@ This repository contains a Python script for aligning scanned documents using ke
 
 ## Dependencies
 
-Make sure you have the necessary Python libraries installed:
+- Make sure you have the necessary Python libraries installed:
 
     ```bash
     pip install opencv-python numpy matplotlib
-    ```
 
 ## Usage
 
